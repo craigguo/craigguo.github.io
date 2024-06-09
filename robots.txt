@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://craigguo.github.io/sitemap.xml
